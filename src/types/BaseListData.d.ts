@@ -1,0 +1,3 @@
+interface BaseListData {
+  id: number;
+}
